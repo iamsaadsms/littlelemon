@@ -1,0 +1,27 @@
+.Navbar {
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 15vw;
+    background: rgb(255, 255, 255);
+}
+
+.logo {
+    width: 15vw;
+    height: 10vh;
+    margin-right: 5vw;
+}
+
+.navtabs {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 3vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 3vh;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.navtabs:hover {
+    color: rgb(244, 206, 20);
+}

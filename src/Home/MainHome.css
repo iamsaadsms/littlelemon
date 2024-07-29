@@ -1,0 +1,49 @@
+.MainHome {
+    background: rgb(73, 94, 87);
+    width: 100vw;
+    height: 60vh;
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mh-data {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10vh;
+    white-space: wrap;
+    width: 60vw;
+}
+
+.mainhome-img {
+    position: absolute;
+    width: 25vw;
+    height: 60vh;
+    border-radius: 20px;
+    margin-left: 10vw;
+    top: 10vh;
+    object-fit: cover;
+}
+
+.mh-head {
+    font-size: 6vh;
+    color: rgb(244, 206, 20);
+    font-weight: bold;
+}
+
+.mh-city {
+    font-size: 4vh;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    line-height: 6vh;
+}
+
+.mh-p {
+    width: 20vw;
+    font-size: 2.75vh;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.1vw;
+    line-height: 4vh;
+}

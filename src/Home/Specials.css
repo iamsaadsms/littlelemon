@@ -1,0 +1,16 @@
+.Specials {
+    margin-top: 20vh;
+    padding: 0vh 5vw;
+    padding-bottom: 10vh;
+}
+
+.sp-top {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sp-head {
+    font-size: 5vh;
+    font-weight: 600;
+    letter-spacing: 0.1vw;
+}
