@@ -1,0 +1,26 @@
+[
+    {
+        "img":"Greek.jpg",
+        "name":"Greek Salad",
+        "price":"$12.99",
+        "desc":"The famous Greek Salad of crispy lettuce, peppers, olives and our Chicago styled feta cheese. garnished with crunchy garlics and rosemary croutons."
+    },
+    {
+        "img":"d.jpg",
+        "name":"Bruchetta",
+        "price":"$5.99",
+        "desc":"Our Bruchetta is grilled bread bread that has been smeared with garlic and seasoned with salt and olive oil."
+    },
+    {
+        "img":"pp.jpg",
+        "name":"Fettuccine Pasta ",
+        "price":"$18.99",
+        "desc":"This is made made from durum wheat flour and water, boasting a flat ribbon-like shape. Its smooth texture and wide surface area make it ideal for pairing with various sauces and ingredients, delivering a truly authentic taste of Italy."
+    },
+    {
+        "img":"r2.jpg",
+        "name":"Pancakes",
+        "price":"7.99",
+        "desc":"Pancakes are fluffy, flat cakes made from a batter of flour, eggs, milk, and baking powder, cooked on a griddle or frying pan. They're often enjoyed as a breakfast treat, topped with syrup, fruit, or other delicious toppings."
+    }
+]

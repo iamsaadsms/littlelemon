@@ -1,0 +1,20 @@
+[
+    {
+        "image":"p1.jpg",
+        "name":"John Smith",
+        "description":"The Greek Salad was absolutely divine! The combination of fresh lettuce, tangy olives, and creamy feta cheese made my taste buds dance with joy."
+    },
+    {
+        "image":"p2.jpg",
+        "name":"Michael Brown",
+        "description":"I couldn't get enough of the Bruchetta! The crispy bread, infused with garlic and olive oil, was the perfect appetizer to start my meal."
+    },    {
+        "image":"p3.jpg",
+        "name":"Sarah Johnson",
+        "description":"The Fettuccine Pasta was a culinary masterpiece! Each bite was like a taste of Italy, with its silky texture and flavorful sauce."
+    },    {
+        "image":"p4.jpg",
+        "name":"Emily White",
+        "description":"I ordered the Fettuccine Pasta last night, and it was fantastic! The wide ribbons of pasta perfectly soaked up the rich sauce, creating a mouthwatering experience."
+    }
+]

@@ -1,0 +1,59 @@
+.About {
+    background: rgb(244, 206, 20);
+    padding: 10vh 0vw;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20vh;
+}
+
+.l-ab {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ab-head {
+    font-size: 6vh;
+    font-weight: 600;
+}
+
+.ab-city {
+    font-size: 3.5vh;
+    font-weight: 600;
+    padding: 1vh 0vw;
+}
+
+.ab-p {
+    letter-spacing: 0.1vw;
+    line-height: 3.35vh;
+}
+
+.r-ab {
+
+}
+
+.r-images {
+    position: relative;
+}
+
+.i1, .i2 {
+    width: 22vw;
+    height: 45vh;
+    right: 40vw;
+    /* background-image: url('../Media/r1.jpg');
+    opacity: 0.3;
+    z-index: 99; */
+    position: absolute;
+}
+
+.i1 {
+    left: -22vw;
+    top: 10vh;
+}
+
+
+.i2 {
+    left: -14vw;
+    top: 0vh;
+}

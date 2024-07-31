@@ -1,0 +1,42 @@
+.Reviews {
+    display: flex;
+    padding-bottom: 10vh;
+}
+
+.review-items {
+    display: flex;
+    padding: 5vh 2.25vw;
+    width: 20vw;
+}
+
+.review-data {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    height: 70vh;
+    background: rgb(244, 206, 20);
+    padding: 2vh 3vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.review-img {
+    width: 18vh;
+    height: 18vh;
+    border-radius: 50%;
+    align-self: center;
+}
+
+.review-name {
+    align-self: center;
+    font-size: 3.5vh;
+    font-weight: 600;
+}
+
+.review-desc {
+    font-size: 2.5vh;
+    letter-spacing: 0.1vw;
+    align-self: center;
+    height: 25vh;
+    width: 14vw;
+}

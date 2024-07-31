@@ -1,0 +1,75 @@
+.Card {
+    display: flex;
+    justify-content: space-around; /* Distributes space between items */
+}
+
+.card-items {
+    display: flex;
+    flex-direction: row; /* Already in row by default */
+    margin: 5vh 0vw;
+    justify-content: space-evenly;
+}
+
+.card-prod {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-img {
+    width: 19vw;
+    height: 45vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    object-fit: cover;
+    box-shadow: 0.5px 0.5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.card-details {
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    background-color: rgb(237, 239, 238);
+    padding: 3vh 1vw;
+    width: 17vw;
+    box-shadow: 0.5px 0.5px 10px rgba(0, 0, 0, 0.5);   
+    height: 50vh;
+    justify-content: space-between;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 3vh;
+}
+
+.card-name {
+    font-weight: 600;
+}
+
+.card-price {
+    color: rgb(238, 153, 114);
+}
+
+.card-desc {
+    font-size: 2.25vh;
+    letter-spacing: 0.1vw;
+    padding-bottom: 10vh;
+}
+
+.card-link {
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+}
+
+.card-link:hover {
+    color: rgb(244, 208, 20, 0.9);
+}
+
+.link-div {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+}
